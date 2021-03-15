@@ -1,10 +1,10 @@
 **中文** | [English](./README.md)
 
-<h1>JianGuoPaPa</h1>
+<h1>坚果爸爸</h1>
 
-- 👋 Hi, I’m @JianGuoPaPa 🇨🇳
-- 👀 I’m interested in 🛼 🛹 🏊🏻 🐱 🐨
-- 🌱 I’m currently learning javascript、 vue 、 react
-- 💞️ I’m looking to collaborate on helping each other improving coding skills
-- 📫 My email 529440786@qq.com
-- wx: jianguofather
+- 👋 Hi, 我是坚果爸爸 🇨🇳
+- 👀 我喜欢 🛼 🛹 🏊🏻 🐱 🐨 自由式轮滑平地花式绕桩、平地花式滑板、游泳、猫猫、狗狗
+- 🌱 我正在学习Javascript、Vue、React
+- 💞️ 我正在寻找能够一起互相提高编程水平的小伙伴
+- 📫 我的邮箱 529440786@qq.com
+- 微信: jianguofather
